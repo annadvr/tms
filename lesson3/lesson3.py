@@ -16,6 +16,7 @@ checkExam(["b", "c", "b", "a"], ["",  "a", "a", "c"]) → 0
 def check_exam(arr1,arr2):
     print('here is my changes')
     'asdasdadadad'
+    'asdalksdjlasdj'
     return
 
 
